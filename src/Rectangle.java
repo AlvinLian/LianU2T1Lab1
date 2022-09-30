@@ -20,7 +20,7 @@ public class Rectangle {
 
     public void printPerimeter() {
         int perimeter = 2 * (length + width);
-        System.out.println("MY perimeter is " + perimeter);
+        System.out.println("My perimeter is " + perimeter);
     }
 }
 
